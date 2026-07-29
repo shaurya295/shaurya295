@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C2FF,100:7928CA&height=200&section=header&text=Shaurya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20with%20AI%20%2B%20Code%20%F0%9F%9A%80&descAlignY=58&descSize=18" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI%2FML+%2B+Full-Stack+Projects;Python+%7C+Java+%7C+JavaScript;Always+Shipping%2C+Always+Learning+%E2%9A%A1)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C2FF,100:7928CA&height=200&section=header&text=Shaurya%20Kakkar&fontSize=50&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 </div>
 
@@ -10,14 +8,18 @@
 
 ## ⚡ About Me
 
-```yaml
-name     : Shaurya
-focus    : AI/ML · Full-Stack Development
-languages: Python · Java · JavaScript · C++
-status   : Always building, always learning 🔥
-```
+<table>
+<tr>
+<td>
 
-> ✏️ Fill in your bio/degree/location here to make this fully yours.
+🎓 &nbsp; **CS Undergrad** passionate about building intelligent systems  
+💡 &nbsp; Exploring **AI/ML**, **Full-Stack Development** & everything in between  
+🛠️ &nbsp; Love turning ideas into real, working products  
+🚀 &nbsp; Always shipping, always learning  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -28,10 +30,10 @@ status   : Always building, always learning 🔥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -96,12 +98,9 @@ status   : Always building, always learning 🔥
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryakakkar03)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shauryakakkar03/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaurya295)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shaurya295&label=Profile+Views&color=00C2FF&style=flat)
 
 </div>
 
