@@ -56,14 +56,13 @@ status   : Always building, always learning 🔥
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaurya295&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C2FF&icon_color=7928CA&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya295&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff" height="170"/>
+<img src="https://raw.githubusercontent.com/shaurya295/shaurya295/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
 
-</div>
+<img src="https://raw.githubusercontent.com/shaurya295/shaurya295/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170"/>
+<img src="https://raw.githubusercontent.com/shaurya295/shaurya295/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170"/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shaurya295&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=7928CA&currStreakLabel=00C2FF" width="70%"/>
+<img src="https://raw.githubusercontent.com/shaurya295/shaurya295/main/profile-summary-card-output/github_dark/3-stats.svg" height="170"/>
+<img src="https://raw.githubusercontent.com/shaurya295/shaurya295/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="170"/>
 
 </div>
 
