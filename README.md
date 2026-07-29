@@ -12,7 +12,8 @@
 <tr>
 <td>
 
-🎓 &nbsp; **CS Undergrad** passionate about building intelligent systems  
+🎓 &nbsp; **B.Tech in CSE** with a specialization in **Cybersecurity**  
+🔐 &nbsp; Passionate about **network security**, **ethical hacking** & building secure systems  
 💡 &nbsp; Exploring **AI/ML**, **Full-Stack Development** & everything in between  
 🛠️ &nbsp; Love turning ideas into real, working products  
 🚀 &nbsp; Always shipping, always learning  
